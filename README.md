@@ -2,7 +2,7 @@
 - 👀 I’m interested in Site Reliability Engineering, Cloud Engineering, DevOps and mentoring engineers
 - 🌱 I’m currently studying for the AWS Certified Devops Engineer exam
 - 💞️ I’m looking to collaborate on cloud architecture 
-- 📫 How to reach me: @carlosdotpizza on Twitter
+- 📫 How to reach me: https://linkedin.com/in/carloscisnerosjr
 
 <!---
 carloscisnerosjr/carloscisnerosjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
