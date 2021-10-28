@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carloscisnerosjr
-- 👀 I’m interested in Site Reliability Engineering, Cloud Engineering, DevOps and mentoring engineers
+- 👀 I’m interested in Site Reliability Engineering, Cloud Engineering and DevOps
 - 🌱 I’m currently studying for the AWS Certified Devops Engineer exam
 - 💞️ I’m looking to collaborate on cloud architecture 
 - 📫 How to reach me: https://linkedin.com/in/carloscisnerosjr
