@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carloscisnerosjr
-- 👀 I’m interested in Site Reliability Engineering, Cloud Engineering and DevOps
-- 🌱 I recently passed the AWS Certified Solutions Architect Professional exam and I am now studying for the Red Hat Certified Engineer exam
-- 💞️ I’m looking to collaborate on cloud architecture 
+- 👀 Infrastructure Engineer @ The New York Times
+- 🤖 Building with AI voice agents
+- Founder and engineer of [Eve AI](https://meeteveai.io), a next generation AI Creative Suite powered by an agentic voice assistant and an LLM assistant.
 - 📫 How to reach me: https://linkedin.com/in/carloscisnerosjr
 
 <!---
