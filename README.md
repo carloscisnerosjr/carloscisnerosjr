@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@carloscisnerosjr](https://twitter.com/carlosdotpizza)
 - 👀 Senior SRE @ Nayya
-- Founder and engineer of [Eve AI](https://meeteveai.io), a next generation AI Creative Suite powered by an agentic voice assistant and an LLM assistant.
+- Founder and engineer of [Darkframe](https://darkframe.ai), an AI platform for horror creators.
 - 📫 How to reach me: https://linkedin.com/in/carloscisnerosjr
 
 <!---
